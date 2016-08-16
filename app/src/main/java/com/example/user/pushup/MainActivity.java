@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
    private void myMethod(){
 
         int i=1+1;
+
+       int j = 2+2;
     }
 
 
